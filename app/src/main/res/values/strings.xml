@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KKNews</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search">搜索</string>
+    <string name="download">下载</string>
+    <string name="manage">管理新闻频道</string>
+
+</resources>
